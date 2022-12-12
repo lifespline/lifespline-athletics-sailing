@@ -1,0 +1,3 @@
+# task runner depednencies
+.env
+__pycache__

@@ -6,14 +6,3 @@
    sailing/tilting
    sailing/angle_of_attack
    sailing/wind_shift
-
-
-
-
-
-
-
-
-
-
-
